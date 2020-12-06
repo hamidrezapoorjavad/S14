@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S14</string>
+    <string name="save">save</string>
+    <string name="like">Like</string>
+    <string name="search">Search</string>
+    <string name="user_name">User Name</string>
+</resources>
